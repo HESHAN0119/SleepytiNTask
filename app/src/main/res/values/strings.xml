@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sleepyti N Task</string>
+    <string name="hours_12">hours(12)</string>
+    <string name="minutes">minutes</string>
+    <string name="minute">minutes</string>
+    <string name="i_plan_to_fall_a_sleep_at">I plan to FALL A SLEEP at...</string>
+    <string name="am_pm">am/pm</string>
+    <string name="am">am</string>
+    <string name="pm">pm</string>
+    <string name="i_plan_to_wake_up_at">I plan to wake up at...</string>
+    <string name="best_times">Wake Up Times</string>
+    <string name="_00">00</string>
+    <string name="dot">.</string>
+    <string name="you_have_x_todos_in_tody">You have x task</string>
+    <string name="add_to_do">Add New Task</string>
+    <string name="add">+</string>
+    <string name="add_a_new_todo">Add New Task</string>
+    <string name="description">Description</string>
+    <string name="edit_todo">Update Task</string>
+</resources>
